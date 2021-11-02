@@ -1,5 +1,5 @@
 // Write your solution in this file!
-globalVar = Mazen
+globalVar = "bob";
 
 function upperCaseCustomerName (){
     customerName = "MAZEN";
